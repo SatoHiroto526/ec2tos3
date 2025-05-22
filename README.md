@@ -34,14 +34,14 @@ s3preffix=S3プレフィックス名
 s3suffix=S3サフィックス名
 ```
 
-## プログラム実行コマンド例
+## 【プログラム実行コマンド例】
 ```
 ./ec2tos3_checkfile.sh ./test.properties
 ./ec2tos3_s3road.sh ./test.properties
 ./ec2tos3_removefile.sh ./test.properties
 ```
 
-## 【図】
+## 【図式化】
 ![データパイプラインサンプル-ページ2](https://github.com/user-attachments/assets/af70edf1-d537-4f48-9edd-0ec4515dcf3e)
 
 
