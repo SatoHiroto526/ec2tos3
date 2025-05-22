@@ -41,7 +41,7 @@ s3suffix=S3サフィックス名
 ./ec2tos3_removefile.sh ./test.properties
 ```
 
-## 【鳥瞰図】
+## 【図】
 ![データパイプラインサンプル-ページ2](https://github.com/user-attachments/assets/af70edf1-d537-4f48-9edd-0ec4515dcf3e)
 
 
