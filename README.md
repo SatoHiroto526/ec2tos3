@@ -14,7 +14,7 @@ AWS EC2→S3へファイルをロードするデータパイプラインのジ�
 3. **ファイル削除ジョブ**  
 　　`ec2tos3_removefile.sh`
 
-## 【.priperties例】
+## 【.properties例】
 ```
 # ファイル配置用インスタンス情報
 transfer_server=ファイル配置用インスタンスのIPアドレス
@@ -42,8 +42,7 @@ s3suffix=S3サフィックス名
 ```
 
 ## 【鳥瞰図】
-
-
+![データパイプラインサンプル-ページ2](https://github.com/user-attachments/assets/af70edf1-d537-4f48-9edd-0ec4515dcf3e)
 
 
 
