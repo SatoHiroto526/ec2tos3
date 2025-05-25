@@ -1,7 +1,7 @@
 #!/bin/bash
 
-INFO_LOG="/tmp/log/ec2tos3_removefile_info.log"
-ERROR_LOG="/tmp/log/ec2tos3_removefile_error.log"
+INFO_LOG="/home/ec2-user/log/ec2tos3_removefile_info.log"
+ERROR_LOG="/home/ec2-user/log/ec2tos3_removefile_error.log"
 
 # 出力を振り分け
 exec 1>>"$INFO_LOG"
